@@ -27,7 +27,3 @@ This will generate a histogram plot showing the distribution of sentiment scores
 ## Customization
 
 You can customize the script by changing the movie ID in the `imdb_reviews_sentiment.py` script to analyze reviews for a different movie.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
